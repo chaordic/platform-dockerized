@@ -1,3 +1,5 @@
+storm.local.dir: "/data/storm"
+
 # List of the hosts in the Zookeeper cluster.
 # 'zookeeper' is the Docker Compose network reference.
 storm.zookeeper.servers:
